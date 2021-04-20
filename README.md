@@ -22,15 +22,14 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="JavaScript" width="26px" src="" />
-<img align="left" alt="HTML" width="26px" src="" />
-<img align="left" alt="CSS" width="26px" src="" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="MySQL" width="50px" src="res/imgs/logo-mysql-170x115.png" />
+<img align="left" alt="JavaScript" width="26px" src="res/imgs/javascript.svg" />
+<img align="left" alt="HTML" width="26px" src="res/imgs/html.svg" />
+<img align="left" alt="CSS" width="26px" src="res/imgs/css.svg" />
+<br /><br />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Node.js" width="26px" src="" />
+<img align="left" alt="Node.js" width="26px" src="res/imgs/nodejs.svg" />
 <img align="left" alt="Docker" width="26px" src="" />
 <img align="left" alt="Ansible" width="26px" src="" />
 <img align="left" alt="Redis" width="26px" src="" />
@@ -47,12 +46,12 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 <img align="left" alt="NumPy" width="26px" src="" />
 <img align="left" alt="sklearn" width="26px" src="" />
 
-
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="26px" src="" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ### My resume ⚡
- Click [***here***](https://github.com/rajshrivastava/rajshrivastava/resources/Raj_Shrivastava_resume.pdf) for my latest resume.
+ Click [***here***](res/Raj_Shrivastava_resume.pdf) for my latest resume.
 
 ### What's next? 🤔
 
