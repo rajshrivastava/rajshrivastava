@@ -24,7 +24,7 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
-<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />
+<img align="left" alt="R" width="26px" src="./res/imgs/r.svg" />
 
 <br /><br />
 
@@ -54,7 +54,7 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 <br /><br />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-<img align="left" alt="Sublime" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Sublime_Text_Logo_White.svg" />
+<img align="left" alt="Sublime" width="26px" src="./res/imgs/sublime-text.svg" />
 <img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
