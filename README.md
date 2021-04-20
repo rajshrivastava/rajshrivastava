@@ -17,38 +17,44 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 
 ### Technologies I have worked with 🔭
 
-
-
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
 <img align="left" alt="MySQL" width="50px" src="res/imgs/logo-mysql-170x115.png" />
-<img align="left" alt="JavaScript" width="26px" src="res/imgs/javascript.svg" />
-<img align="left" alt="HTML" width="26px" src="res/imgs/html.svg" />
-<img align="left" alt="CSS" width="26px" src="res/imgs/css.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+<img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+
 <br /><br />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Node.js" width="26px" src="res/imgs/nodejs.svg" />
-<img align="left" alt="Docker" width="26px" src="" />
-<img align="left" alt="Ansible" width="26px" src="" />
-<img align="left" alt="Redis" width="26px" src="" />
-<img align="left" alt="Django" width="26px" src="" />
-<img align="left" alt="Flask" width="26px" src="" />
-<img align="left" alt="REST" width="26px" src="" />
+<img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+<img align="left" alt="Docker" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
+<img align="left" alt="Ansible" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />
+<img align="left" alt="Redis" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" />
+<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
+<img align="left" alt="Flask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" />
+<img align="left" alt="REST" width="26px" src="res/imgs/rest-api.svg" />
+
+<br /><br />
 
 <img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
 <img align="left" alt="WindowsOS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg" />
 <img align="left" alt="MacOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" />
 
-<img align="left" alt="TensorFlow" width="26px" src="" />
-<img align="left" alt="Keras" width="26px" src="" />
-<img align="left" alt="NumPy" width="26px" src="" />
-<img align="left" alt="sklearn" width="26px" src="" />
+<br /><br />
+
+<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="NumPy" width="26px" src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" />
+<img align="left" alt="sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+
+<br /><br />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Vim" width="26px" src="" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 
 ### My resume ⚡
  Click [***here***](res/Raj_Shrivastava_resume.pdf) for my latest resume.
