@@ -31,12 +31,13 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Node.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
-<img align="left" alt="Docker" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
+<img align="left" alt="Docker" width="26px" src="./res/imgs/docker.svg" />
 <img align="left" alt="Ansible" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />
-<img align="left" alt="Redis" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" />
+<img align="left" alt="Redis" width="26px" src="res/imgs/redis.svg" />
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
 <img align="left" alt="Flask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" />
 <img align="left" alt="REST" width="26px" src="res/imgs/rest-api.svg" />
+<img align="left" alt="aws" width="26px" src="res/imgs/aws-2.svg" />
 
 <br /><br />
 
