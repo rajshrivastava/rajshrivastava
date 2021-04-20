@@ -1,12 +1,12 @@
 # Hello World! 👋
 
-I am Raj - a curious Computer Science Master's student at North Carolina State University!
+I am Raj - a curious Computer Science Master's student at [North Carolina State University](https://www.csc.ncsu.edu/)!
 
 ## About me 💬
 
-I am a Graduate Research Assistant at Innovative Educational Computing Laboratory at my university. I am currently working on a skill model mining for automatically detecting inherent skills taught in an online courseware. I am enthusiastic about different domains in computer science ranging from software development to machine learning!
+I am a Graduate Research Assistant at [Innovative Educational Computing Lab](https://www.ieclab.org/) at my university. I am currently working on a skill model mining for automatically detecting inherent skills taught in an online courseware. I am enthusiastic about different domains in computer science ranging from software development to machine learning!
 
-### Technologies I have worked with
+### Technologies I have worked with 🔭
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
@@ -26,10 +26,10 @@ I am a Graduate Research Assistant at Innovative Educational Computing Laborator
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gdb_archer_fish.svg" />
 
-### My resume
+### My resume ⚡
  Click [***here***](https://github.com/rajshrivastava/rajshrivastava/resources/Raj Shrivastava_resume.pdf) for my latest resume.
 
-### What's next?
+### What's next? 🤔
 
 I am ready to graduate in May 2021 and use my skills to work on exciting projects and make a difference!
 
@@ -37,12 +37,13 @@ I am confident about my design and coding abilities, and have a strong grasp of 
 
 
 ## Reach me at 👯
-[<img align="left" alt="ssudher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="soulful_hobby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rajshrivastava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rajshrivastava | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][gmail]
+[<img align="left" alt="rajshrivastava | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][wordpress]
 
-[instagram]: https://www.instagram.com/soulful_hobby/
-[linkedin]: https://www.linkedin.com/in/ssudher/
-
+[linkedin]: https://www.linkedin.com/in/rajshrivastava/
+[gmail]: mailto:rkshriva@nscu.edu
+[wordpress]: https://rajshrivastava.wordpress.com/
 <!--
 **rajshrivastava/rajshrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
