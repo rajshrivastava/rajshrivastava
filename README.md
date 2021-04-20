@@ -61,7 +61,7 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 
 
 ### My resume ⚡
- Click [***here***](res/Raj_Shrivastava_resume.pdf) for my latest resume.
+ Click [***here***](./res/Raj_Shrivastava_resume.pdf) for my latest resume.
 
 ### What's next? 🤔
 
@@ -71,13 +71,15 @@ I am confident about my design and coding abilities, and have a strong grasp of 
 
 
 ## Reach me at 👯
-[<img align="left" alt="rajshrivastava | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
-[<img align="left" alt="rajshrivastava | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
-[<img align="left" alt="rajshrivastava | Wordpress" width="22px" src="https://commons.wikimedia.org/wiki/File:WordPress_logo.svg" />][wordpress]
+[<img align="left" alt="rajshrivastava | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
 
-[linkedin]: https://www.linkedin.com/in/rajshrivastava/
-[gmail]: mailto:rkshriva@nscu.edu
-[wordpress]: https://rajshrivastava.wordpress.com/
+[<img align="left" alt="rajshrivastava | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][LinkedIn]
+
+[<img align="left" alt="rajshrivastava | Wordpress" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" />][Wordpress]
+
+[Gmail]: mailto:rkshriva@nscu.edu
+[LinkedIn]: https://www.linkedin.com/in/rajshrivastava/
+[Wordpress]: https://rajshrivastava.wordpress.com/
 
 <!--
 **rajshrivastava/rajshrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
