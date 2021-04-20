@@ -41,18 +41,18 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 
 <br /><br />
 
-<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
-<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="NumPy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
-<img align="left" alt="sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-
-<br /><br />
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="Sublime" width="26px" src="./res/imgs/sublime-text.svg" />
 <img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
+
+<br /><br />
+
+<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="NumPy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+<img align="left" alt="sklearn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 <br /><br />
 
