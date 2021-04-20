@@ -41,12 +41,6 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 
 <br /><br />
 
-<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
-<img align="left" alt="WindowsOS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg" />
-<img align="left" alt="MacOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" />
-
-<br /><br />
-
 <img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="left" alt="NumPy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
@@ -60,6 +54,11 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
 
+<br /><br />
+
+<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
+<img align="left" alt="WindowsOS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg" />
+<img align="left" alt="MacOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" />
 
 <br /><br />
 
