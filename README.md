@@ -64,7 +64,7 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 
 
 ### My resume ⚡
- Click [***here***](./res/Raj_Shrivastava_resume.pdf) for my latest resume.
+ Click [***here***](https://drive.google.com/file/d/1FsobfwzkIAzmpHJwqPElDkBoOGEr8KpU/view?usp=sharing) for my latest resume.
 
 ### What's next? 🤔
 
