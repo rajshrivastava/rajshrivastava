@@ -76,7 +76,7 @@ I am confident about my design and coding abilities, and have a strong grasp of 
 ## Reach me at 👯
 [<img align="left" alt="rajshrivastava | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
 
-[<img align="left" alt="rajshrivastava | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][LinkedIn]
+[<img align="left" alt="rajshrivastava | LinkedIn" width="22px" src="res/imgs/linkedin.svg" />][LinkedIn]
 
 [<img align="left" alt="rajshrivastava | Wordpress" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" />][Wordpress]
 
