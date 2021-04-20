@@ -2,32 +2,57 @@
 
 I am Raj - a curious Computer Science Master's student at [North Carolina State University](https://www.csc.ncsu.edu/)!
 
+![rajshrivastava's github stats](https://github-readme-stats.vercel.app/api?username=rajshrivastava&show_icons=true&hide_border=true) 
+
+<!--- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrivastava&layout=compact&hide_border=true)
+--->
+
+![rajshrivastava](https://komarev.com/ghpvc/?username=rajshrivastava)
+
+
 ## About me 💬
 
-I am a Graduate Research Assistant at [Innovative Educational Computing Lab](https://www.ieclab.org/) at my university. I am currently working on a skill model mining for automatically detecting inherent skills taught in an online courseware. I am enthusiastic about different domains in computer science ranging from software development to machine learning!
+I am a Graduate Research Assistant at [Innovative Educational Computing Lab](https://www.ieclab.org/) at my university. I am currently working on a skill mining model for automatically detecting inherent skills taught in an online courseware. I am enthusiastic about various domains in computer science ranging from software development to machine learning!
 
 ### Technologies I have worked with 🔭
+
+
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
-<img align="left" alt="OpenMP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" />
-<img align="left" alt="OpenMPI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Open_MPI_logo.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="JavaScript" width="26px" src="" />
+<img align="left" alt="HTML" width="26px" src="" />
+<img align="left" alt="CSS" width="26px" src="" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Node.js" width="26px" src="" />
+<img align="left" alt="Docker" width="26px" src="" />
+<img align="left" alt="Ansible" width="26px" src="" />
+<img align="left" alt="Redis" width="26px" src="" />
+<img align="left" alt="Django" width="26px" src="" />
+<img align="left" alt="Flask" width="26px" src="" />
+<img align="left" alt="REST" width="26px" src="" />
+
 <img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
 <img align="left" alt="WindowsOS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg" />
 <img align="left" alt="MacOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" />
-<img align="left" alt="Jira" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="TensorFlow" width="26px" src="" />
+<img align="left" alt="Keras" width="26px" src="" />
+<img align="left" alt="NumPy" width="26px" src="" />
+<img align="left" alt="sklearn" width="26px" src="" />
+
+
+<img align="left" alt="Vim" width="26px" src="" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Gdb_archer_fish.svg" />
 
 ### My resume ⚡
- Click [***here***](https://github.com/rajshrivastava/rajshrivastava/resources/Raj Shrivastava_resume.pdf) for my latest resume.
+ Click [***here***](https://github.com/rajshrivastava/rajshrivastava/resources/Raj_Shrivastava_resume.pdf) for my latest resume.
 
 ### What's next? 🤔
 
