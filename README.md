@@ -24,6 +24,7 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />
 
 <br /><br />
 
@@ -64,19 +65,20 @@ I am a Graduate Research Assistant at [Innovative Educational Computing Lab](htt
 
 ### What's next? 🤔
 
-I am ready to graduate in May 2021 and use my skills to work on exciting projects and make a difference!
+I am ready to graduate in May 2021 and utilize my skills to work on exciting projects and make a difference!
 
 I am confident about my design and coding abilities, and have a strong grasp of data structures and algorithms. If you are looking for a fresh graduate with an appetite to learn and grow, let's connect!
 
 
 ## Reach me at 👯
-[<img align="left" alt="rajshrivastava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rajshrivastava | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][gmail]
-[<img align="left" alt="rajshrivastava | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][wordpress]
+[<img align="left" alt="rajshrivastava | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
+[<img align="left" alt="rajshrivastava | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img align="left" alt="rajshrivastava | Wordpress" width="22px" src="https://commons.wikimedia.org/wiki/File:WordPress_logo.svg" />][wordpress]
 
 [linkedin]: https://www.linkedin.com/in/rajshrivastava/
 [gmail]: mailto:rkshriva@nscu.edu
 [wordpress]: https://rajshrivastava.wordpress.com/
+
 <!--
 **rajshrivastava/rajshrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
