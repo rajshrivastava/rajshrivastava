@@ -78,7 +78,7 @@ If you are looking to work with someone who loves coding and innovate products, 
 
 [<img align="left" alt="rajshrivastava | Wordpress" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" />][Wordpress]
 
-[Gmail]: mailto:rkshriva@nscu.edu
+[Gmail]: mailto:rksmail20@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/rajshrivastava/
 [Wordpress]: https://rajshrivastava.wordpress.com/
 
