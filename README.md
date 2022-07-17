@@ -15,7 +15,7 @@ I am Raj - a curious software engineer!
 
 I hold a Master's degree in Computer Science from [North Carolina State University](https://www.csc.ncsu.edu/). During my Master's, I had the privilege to contribute as a Graduate Research Assistant at [Innovative Educational Computing Lab](https://www.ieclab.org/) at my university. I am experienced in various domains in computer science ranging from software development to machine learning!
 
-### Technologies I have worked with 🔭
+## Technologies I have worked with 🔭
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
@@ -63,10 +63,10 @@ I hold a Master's degree in Computer Science from [North Carolina State Universi
 <br /><br />
 
 
-### My resume👨🏻‍💻
+## My resume👨🏻‍💻
  Click [***here***](https://drive.google.com/file/d/1FsobfwzkIAzmpHJwqPElDkBoOGEr8KpU/view?usp=sharing) for my latest resume.
 
-### Let's talk! 💬
+## Let's talk! 💬
 
 If you are looking to work with someone who loves coding and innovate products, or just want to talk about tech, let's connect!
 
