@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I am Raj - a curious Computer Science Master's student at [North Carolina State University](https://www.csc.ncsu.edu/)!
+I am Raj - a curious software engineer!
 
 ![rajshrivastava's github stats](https://github-readme-stats.vercel.app/api?username=rajshrivastava&show_icons=true&hide_border=true) 
 
@@ -13,7 +13,7 @@ I am Raj - a curious Computer Science Master's student at [North Carolina State 
 
 ## About me 💬
 
-I am a Graduate Research Assistant at [Innovative Educational Computing Lab](https://www.ieclab.org/) at my university. I am currently working on a skill mining model for automatically detecting inherent skills taught in an online courseware. I am enthusiastic about various domains in computer science ranging from software development to machine learning!
+I hold a Master's degree in Computer Science from [North Carolina State University](https://www.csc.ncsu.edu/). During my Masteer's, I had the privilege to contribute as a Graduate Research Assistant at [Innovative Educational Computing Lab](https://www.ieclab.org/) at my university. I am experienced in various domains in computer science ranging from software development to machine learning!
 
 ### Technologies I have worked with 🔭
 
