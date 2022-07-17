@@ -66,11 +66,9 @@ I hold a Master's degree in Computer Science from [North Carolina State Universi
 ### My resume ⚡
  Click [***here***](https://drive.google.com/file/d/1FsobfwzkIAzmpHJwqPElDkBoOGEr8KpU/view?usp=sharing) for my latest resume.
 
-### What's next? 🤔
+### Let's talk! 🤔
 
-I am ready to graduate in May 2021 and utilize my skills to work on exciting projects and make a difference!
-
-I am confident about my design and coding abilities, and have a strong grasp of data structures and algorithms. If you are looking for a fresh graduate with an appetite to learn and grow, let's connect!
+If you are looking to work with someone who loves coding and innovate products, or just want to talk about tech, let's connect!
 
 
 ## Reach me at 👯
