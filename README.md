@@ -65,9 +65,10 @@ I hold a Master's degree in Computer Science from [North Carolina State Universi
 
 <br /><br />
 
-
+<!--
 ## My resume👨🏻‍💻
  Click [***here***](https://drive.google.com/file/d/1FsobfwzkIAzmpHJwqPElDkBoOGEr8KpU/view?usp=sharing) for my latest resume.
+-->
 
 ## Let's talk! 💬
 
