@@ -70,7 +70,7 @@ I hold a Master's degree in Computer Science from [North Carolina State Universi
  Click [***here***](https://drive.google.com/file/d/1FsobfwzkIAzmpHJwqPElDkBoOGEr8KpU/view?usp=sharing) for my latest resume.
 -->
 
-## Let's talk! 💬
+## Let's connect! 💬
 
 If you are looking to work with someone who loves coding and innovate products, or just want to talk about tech, let's connect!
 
